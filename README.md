@@ -1,0 +1,1 @@
+This is a Raspberry PI package that enables contains the base debian packages required to enable a routing between 2 interfacess and the basic network address translation so that the second interface is isolated inbound.  The internal interface also contains a DHCP service.
